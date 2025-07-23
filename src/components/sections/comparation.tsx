@@ -73,7 +73,7 @@ export default function Comparation() {
           <TableHeader>
             <TableRow>
               <TableHead className="min-w-48 pl-4 text-left sm:pl-8">Feature Category</TableHead>
-              <TableHead className="min-w-32"><Image src={TsLogoSideStack} alt='Triad Secure logo' className="m-auto h-11 w-auto" /></TableHead>
+              <TableHead className="min-w-32 "><Image src={TsLogoSideStack} alt='Triad Secure logo' className="m-auto h-10 bg-pink-400" /></TableHead>
               <TableHead className="min-w-32">XDRs</TableHead>
               <TableHead className="min-w-32">SOARs</TableHead>
               <TableHead className="min-w-32">SIEMs</TableHead>
